@@ -1,5 +1,7 @@
 # sound-synth-music-resources
 
+Mostly just resources for myself, but others might find them useful.
+
 ## SuperCollider
 ### Links
 - [Supercollider](https://supercollider.github.io/) - the official github site
@@ -20,6 +22,8 @@
 - [The SuperCollider Book](https://mitpress.mit.edu/9780262232692/the-supercollider-book/) - the big one
 - [SuperCollider for the Creative Musician](https://www.amazon.com/gp/product/019761700X/ref=ppx_yo_dt_b_asin_title_o00_s00) - by Eli F. - coming out Nov/Dec 2023
 - [A Gentle Introduction to SuperCollider](https://www.authorea.com/users/8686/articles/8761-a-gentle-introduction-to-supercollider)
+### Courses
+- See Eli Fieldsteel's channel in Videos above. Multiple courses/tutorials. All free.
 
 ## Sound Synthesis
 ### Links
@@ -28,18 +32,20 @@
 - [Sound On Sound: Synth Secrets](https://www.soundonsound.com/series/synth-secrets-sound-sound) - series of magazine articles on synthesis
 - [VCV Rack](https://vcvrack.com/) - virtual synth rack
 ### Videos
-- [Sound Design Complete Course](https://www.youtube.com/watch?v=jWorjBDcty4)
 ### Books
 ### Courses
-
+- [Sound Design Complete Course](https://www.youtube.com/watch?v=jWorjBDcty4) (free)
+- 
 ## Music Theory
 ### Links
 - [Creative Tools for Music Makers](https://www.ableton.com/en/live/learn-live/) - from Ableton
+- [Virtual Piano Chords Chart](https://www.zebrakeys.com/resources/reference/virtualpianochords/) - chords and scales
+- [Keyboard Note Identification](https://www.musictheory.net/exercises/keyboard) - good practice tool
 ### Videos
 ### Books
 ### Courses
-- [Music Theory for Electronic Producers - The Complete Course!](https://www.digitalmusicmasters.com/enrollments)
-- [Piano Lessons for Beatmakers and Music Producers](https://www.udemy.com/course/piano-lessons-for-beatmakers-and-music-producers/) - focus on keyboard stuff
+- [Music Theory for Electronic Producers - The Complete Course!](https://www.digitalmusicmasters.com/enrollments) - good all around tutorial. (paid)
+- [Piano Lessons for Beatmakers and Music Producers](https://www.udemy.com/course/piano-lessons-for-beatmakers-and-music-producers/) - focus on keyboard stuff (paid)
 
 ## Music Production
 ### Links
