@@ -40,11 +40,11 @@ Currently my weapon of choice, so lots of links.
 ### Videos
 ### Books
 - [Computer Music](https://www.amazon.com/Computer-Music-Synthesis-Composition-Performance/dp/0028646827) - Dodge, Jerse
-- Computer Sound Design - Eduardo Reck Miranda
-- Harmonograph - Anthony Ashton
-- Microsound - Curtis Roads
-- The Computer Music Tutorial - Curtis Roads
-- The Musical Art of Synthesis - Sam McGuire
+- [Computer Sound Design](https://www.amazon.com/Computer-Sound-Design-Second-programming/dp/0240516931) - Eduardo Reck Miranda
+- [Harmonograph](https://www.amazon.com/Harmonograph-Visual-Guide-Mathematics-Wooden/dp/0802714099/) - Anthony Ashton
+- [Microsound](https://www.amazon.com/Microsound-MIT-Press-Curtis-Roads/dp/0262681544/) - Curtis Roads
+- [The Computer Music Tutorial](https://www.amazon.com/Computer-Music-Tutorial-second/dp/0262044919/) - Curtis Roads
+- [The Musical Art of Synthesis](https://www.amazon.com/Musical-Art-Synthesis-Sam-McGuire/dp/1138829773/) - Sam McGuire
 ### Courses
 - [Sound Design Complete Course](https://www.youtube.com/watch?v=jWorjBDcty4) (free)
 ## Music Theory and Production
@@ -54,11 +54,11 @@ Currently my weapon of choice, so lots of links.
 - [Keyboard Note Identification](https://www.musictheory.net/exercises/keyboard) - good practice tool
 ### Videos
 ### Books
-- Music by the Numbers
-- Music, A Mathematical Offering
-- Music Theory, Idiot's Guide
-- Music Theory 101
-- Music Theory Made Simple
+- [Music by the Numbers](https://www.amazon.com/Music-Numbers-Pythagoras-Eli-Maor/dp/0691202966/) - Eli Maor
+- [Music, A Mathematical Offering](https://www.amazon.com/Music-Mathematical-Offering-Dave-Benson/dp/0521619998/) - Dave Benson
+- [Music Theory, Idiot's Guide](https://www.amazon.com/Music-Theory-3E-Idiots-Guides/dp/1465451676/) - Michael Miller
+- [Music Theory 101](https://www.amazon.com/Music-Theory-101-scales-essential/dp/1507203667/) - Brian Boone
+- [Music Theory Made Simple](https://www.amazon.com/Music-Theory-Made-Simple-Essential/dp/1645675904) - Adrian Valia
 - The Oxford Handbook of Algorithmic Music
 - Composing Music With Computers
 - Music Theory for Electronic Music Producers
