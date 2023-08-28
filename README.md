@@ -1,6 +1,6 @@
 # sound-synth-music-resources
 
-Links, videos, books and courses. Mostly just learning resources for myself, but others might find some of this useful.
+Links, videos, books and courses. Mostly just learning resources for myself, but others might find some of this useful. I can't vouch for all of these, but have looked through them enough to say that they all seem to have promise.
 
 ## SuperCollider
 Currently my weapon of choice, so lots of links.
@@ -46,7 +46,6 @@ Currently my weapon of choice, so lots of links.
 - The Musical Art of Synthesis - Sam McGuire
 ### Courses
 - [Sound Design Complete Course](https://www.youtube.com/watch?v=jWorjBDcty4) (free)
-- 
 ## Music Theory and Production
 ### Links
 - [Creative Tools for Music Makers](https://www.ableton.com/en/live/learn-live/) - from Ableton
