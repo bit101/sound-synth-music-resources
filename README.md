@@ -25,9 +25,9 @@ Currently my weapon of choice, so lots of links.
 - [The SuperCollider Book](https://mitpress.mit.edu/9780262232692/the-supercollider-book/) - the big one
 - [SuperCollider for the Creative Musician](https://www.amazon.com/gp/product/019761700X/ref=ppx_yo_dt_b_asin_title_o00_s00) - by Eli F. - coming out Nov/Dec 2023
 - [A Gentle Introduction to SuperCollider](https://www.authorea.com/users/8686/articles/8761-a-gentle-introduction-to-supercollider) - free online book
-- Programming Digital Music with SuperCollider - Peter Fitton
-- Introduction to SuperCollider - Andrea Valle
-- SuperCollider Tutorial - Nick Collins
+- [Programming Digital Music with SuperCollider](https://www.amazon.com/Programming-digital-music-SuperCollider-Fitton-ebook/dp/B00EA1USLG) - Peter Fitton
+- [Introduction to SuperCollider](https://www.amazon.com/Introduction-SuperCollider-Andrea-Valle/dp/3832540172) - Andrea Valle
+- [SuperCollider Tutorial](https://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html) - Nick Collins
 ### Courses
 - See Eli Fieldsteel's channel in Videos above. Multiple courses/tutorials. All free.
 
@@ -39,7 +39,7 @@ Currently my weapon of choice, so lots of links.
 - [VCV Rack](https://vcvrack.com/) - virtual synth rack
 ### Videos
 ### Books
-- Computer Music - Dodge, Jerse
+- [Computer Music](https://www.amazon.com/Computer-Music-Synthesis-Composition-Performance/dp/0028646827) - Dodge, Jerse
 - Computer Sound Design - Eduardo Reck Miranda
 - Harmonograph - Anthony Ashton
 - Microsound - Curtis Roads
