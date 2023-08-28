@@ -1,6 +1,6 @@
 # sound-synth-music-resources
 
-Mostly just resources for myself, but others might find them useful.
+Links, videos, books and courses. Mostly just learning resources for myself, but others might find some of this useful.
 
 ## SuperCollider
 ### Links
@@ -9,6 +9,7 @@ Mostly just resources for myself, but others might find them useful.
 - [sccode.org](https://sccode.org/) - SuperCollider code samples
 - [SuperCollider Reddit](https://www.reddit.com/r/supercollider/) - SuperCollider Reddit
 - [Awesome SuperCollider](https://github.com/madskjeldgaard/awesome-supercollider) - great list of links from Mads Kjeldgaard
+- [Mads Kjeldgaard posts](https://www.madskjeldgaard.dk/posts/) - posts by Mads Kjeldgaard
 - [Learning SuperCollider](https://reginaldbain.com/vc/musc540/pub/learning/sc3.html) - collection of links
 - [SCNvim](https://github.com/davidgranstrom/scnvim) - SuperCollider in neovim
 - [Nathan Ho](https://nathan.ho.name/) - blog by Nathan, aka SynthDef on YouTube. Some highlights:
