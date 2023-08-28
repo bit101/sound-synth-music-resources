@@ -16,3 +16,21 @@
 - [The SuperCollider Book](https://mitpress.mit.edu/9780262232692/the-supercollider-book/) - the big one
 - [SuperCollider for the Creative Musician](https://www.amazon.com/gp/product/019761700X/ref=ppx_yo_dt_b_asin_title_o00_s00) - by Eli F. - coming out Nov/Dec 2023
 - [A Gentle Introduction to SuperCollider](https://www.authorea.com/users/8686/articles/8761-a-gentle-introduction-to-supercollider)
+
+## Sound Synthesis
+### Links
+### Videos
+### Books
+### Courses
+
+## Music Theory
+### Links
+### Videos
+### Books
+### Courses
+
+## Music Production
+### Links
+### Videos
+### Books
+### Courses
