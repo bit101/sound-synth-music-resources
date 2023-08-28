@@ -59,10 +59,10 @@ Currently my weapon of choice, so lots of links.
 - [Music Theory, Idiot's Guide](https://www.amazon.com/Music-Theory-3E-Idiots-Guides/dp/1465451676/) - Michael Miller
 - [Music Theory 101](https://www.amazon.com/Music-Theory-101-scales-essential/dp/1507203667/) - Brian Boone
 - [Music Theory Made Simple](https://www.amazon.com/Music-Theory-Made-Simple-Essential/dp/1645675904) - Adrian Valia
-- The Oxford Handbook of Algorithmic Music
-- Composing Music With Computers
-- Music Theory for Electronic Music Producers
-- The Producer's Music Theory Handbook
+- [The Oxford Handbook of Algorithmic Music](https://www.amazon.com/Oxford-Handbook-Algorithmic-Music-YYYYYYYYY/dp/0197554369/) - McLean, Dean, editors
+- [Composing Music With Computers](https://www.amazon.com/Composing-Music-Computers-Technology/dp/0240515676/) - Eduardo Reck Miranda
+- [Music Theory for Electronic Music Producers](https://www.amazon.com/Music-Theory-Electronic-Producers-progressions/dp/172786302X) - Dr. J. Anthony Allen
+- [The Producer's Music Theory Handbook](https://www.amazon.com/Computer-Presents-Producers-Handbook-Magazine/dp/B07WGJMP71/) - single issue magazine
 ### Courses
 - [Music Theory for Electronic Producers](https://www.digitalmusicmasters.com/enrollments) - Tomas George, Digital Music Masters, good all around tutorial. (paid)
 - [Piano Lessons for Beatmakers and Music Producers](https://www.udemy.com/course/piano-lessons-for-beatmakers-and-music-producers/) - focus on keyboard stuff, so-so (paid)
@@ -70,7 +70,7 @@ Currently my weapon of choice, so lots of links.
 ## Specific Tools
 ### Ableton Live
 - [Ableton Live 11 Tutorial](https://www.youtube.com/watch?v=JaSK3Q8vyGA) - Tomas George - free 2.5 hour course
-- The Music Producer's Creative Guide to Ableton Live 11
+- [The Music Producer's Creative Guide to Ableton Live 11](https://www.amazon.com/Music-Producers-Creative-Guide-Ableton/dp/1801817634) - Anna Lakotos
 ### LMMS
 - [LMMS](https://lmms.io/) - main site
 - [LMMS tutorials](https://www.youtube.com/watch?v=TrMTlpeSw8Y&list=PLqazFFzUAPc4K1To5JTtR3cskcdRifM1M) - 22 vids - TJ Free
