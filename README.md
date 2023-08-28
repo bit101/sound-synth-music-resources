@@ -19,15 +19,20 @@
 
 ## Sound Synthesis
 ### Links
+- [Learning Synths](https://learningsynths.ableton.com/) - from Ableton
+- [Introduction to Computer Music](https://cmtext.indiana.edu/index.php)
 ### Videos
+- [Sound Design Complete Course](https://www.youtube.com/watch?v=jWorjBDcty4)
 ### Books
 ### Courses
 
 ## Music Theory
 ### Links
+- [Creative Tools for Music Makers](https://www.ableton.com/en/live/learn-live/) - from Ableton
 ### Videos
 ### Books
 ### Courses
+- [Digital Music Masters](https://www.digitalmusicmasters.com/enrollments)
 
 ## Music Production
 ### Links
