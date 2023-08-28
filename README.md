@@ -44,7 +44,7 @@ Mostly just resources for myself, but others might find them useful.
 ### Videos
 ### Books
 ### Courses
-- [Music Theory for Electronic Producers - The Complete Course!](https://www.digitalmusicmasters.com/enrollments) - good all around tutorial. (paid)
+- [Music Theory for Electronic Producers](https://www.digitalmusicmasters.com/enrollments) - Tomas George, Digital Music Masters, good all around tutorial. (paid)
 - [Piano Lessons for Beatmakers and Music Producers](https://www.udemy.com/course/piano-lessons-for-beatmakers-and-music-producers/) - focus on keyboard stuff (paid)
 
 ## Music Production
@@ -52,3 +52,7 @@ Mostly just resources for myself, but others might find them useful.
 ### Videos
 ### Books
 ### Courses
+
+## Specific Tools
+### Ableton
+- [Ableton Live 11 Tutorial](https://www.youtube.com/watch?v=JaSK3Q8vyGA) - Tomas George - free 2.5 hour course
