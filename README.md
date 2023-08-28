@@ -1,4 +1,4 @@
-# sound-synth-music-resources
+# Sound, Synth, and Music Throry Resources
 
 Links, videos, books and courses. Mostly just learning resources for myself, but others might find some of this useful. I can't vouch for all of these, but have looked through them enough to say that they all seem to have promise.
 
