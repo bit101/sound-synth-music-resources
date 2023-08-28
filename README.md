@@ -54,5 +54,8 @@ Mostly just resources for myself, but others might find them useful.
 ### Courses
 
 ## Specific Tools
-### Ableton
+### Ableton Live
 - [Ableton Live 11 Tutorial](https://www.youtube.com/watch?v=JaSK3Q8vyGA) - Tomas George - free 2.5 hour course
+### LMMS
+- [LMMS](https://lmms.io/) - main site
+- [LMMS tutorials](https://www.youtube.com/watch?v=TrMTlpeSw8Y&list=PLqazFFzUAPc4K1To5JTtR3cskcdRifM1M) - 22 vids - TJ Free
