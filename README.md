@@ -30,7 +30,7 @@ Currently my weapon of choice, so lots of links.
 - [Introduction to SuperCollider](https://www.amazon.com/Introduction-SuperCollider-Andrea-Valle/dp/3832540172) - Andrea Valle
 - [SuperCollider Tutorial](https://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html) - Nick Collins
 ### Courses
-- See Eli Fieldsteel's channel in Videos above. Multiple courses/tutorials. All free.
+- [Eli Fieldsteel](https://www.youtube.com/@elifieldsteel) - duplicate link to above - most of this is course and tutorial series, all are great
 
 ## Sound Synthesis
 ### Links
