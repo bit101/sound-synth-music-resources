@@ -9,7 +9,8 @@ Currently my weapon of choice, so lots of links.
 - [scsynth.org](https://scsynth.org/) - SuperCollider forum
 - [sccode.org](https://sccode.org/) - SuperCollider code samples
 - [SuperCollider Reddit](https://www.reddit.com/r/supercollider/) - SuperCollider Reddit
-- [Awesome SuperCollider](https://github.com/madskjeldgaard/awesome-supercollider) - great list of links from Mads Kjeldgaard
+- [Awesome SuperCollider](https://github.com/madskjeldgaard/awesome-supercollider) - great list of links from Mads Kjeldgaard. To some degree a superset of this list.
+- [(another) Awesome SuperCollider](https://github.com/Atavic/awesome-supercollider) - focusing on SynthDefs, Classes and Utility Functions.
 - [Mads Kjeldgaard posts](https://www.madskjeldgaard.dk/posts/) - posts by Mads Kjeldgaard
 - [Learning SuperCollider](https://reginaldbain.com/vc/musc540/pub/learning/sc3.html) - collection of links
 - [SCNvim](https://github.com/davidgranstrom/scnvim) - SuperCollider in neovim
