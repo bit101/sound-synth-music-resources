@@ -52,7 +52,6 @@ Currently my weapon of choice, so lots of links.
 - [Sound Design Complete Course](https://www.youtube.com/watch?v=jWorjBDcty4) (free)
 ## Music Theory and Production
 ### Links
-- [Creative Tools for Music Makers](https://www.ableton.com/en/live/learn-live/) - from Ableton
 - [Virtual Piano Chords Chart](https://www.zebrakeys.com/resources/reference/virtualpianochords/) - chords and scales
 - [Keyboard Note Identification](https://www.musictheory.net/exercises/keyboard) - good practice tool
 ### Videos
@@ -72,6 +71,7 @@ Currently my weapon of choice, so lots of links.
 
 ## Specific Tools
 ### Ableton Live
+- [Creative Tools for Music Makers](https://www.ableton.com/en/live/learn-live/) - from Ableton
 - [Ableton Live 11 Tutorial](https://www.youtube.com/watch?v=JaSK3Q8vyGA) - Tomas George - free 2.5 hour course
 - [The Music Producer's Creative Guide to Ableton Live 11](https://www.amazon.com/Music-Producers-Creative-Guide-Ableton/dp/1801817634) - Anna Lakotos
 ### LMMS
