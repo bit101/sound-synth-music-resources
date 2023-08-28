@@ -38,6 +38,7 @@ Currently my weapon of choice, so lots of links.
 - [Sound On Sound: Synth Secrets](https://www.soundonsound.com/series/synth-secrets-sound-sound) - series of magazine articles on synthesis
 - [VCV Rack](https://vcvrack.com/) - virtual synth rack
 ### Videos
+- [Monotrail Tech Talk](https://www.youtube.com/@MonotrailTechTalk/videos) - YouTube channel, mostly modular synth stuff
 ### Books
 - [Computer Music](https://www.amazon.com/Computer-Music-Synthesis-Composition-Performance/dp/0028646827) - Dodge, Jerse
 - [Computer Sound Design](https://www.amazon.com/Computer-Sound-Design-Second-programming/dp/0240516931) - Eduardo Reck Miranda
