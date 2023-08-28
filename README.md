@@ -3,6 +3,7 @@
 Links, videos, books and courses. Mostly just learning resources for myself, but others might find some of this useful.
 
 ## SuperCollider
+Currently my weapon of choice, so lots of links.
 ### Links
 - [Supercollider](https://supercollider.github.io/) - the official github site
 - [scsynth.org](https://scsynth.org/) - SuperCollider forum
