@@ -20,6 +20,7 @@ Currently my weapon of choice, so lots of links.
 ### Videos
 - [Eli Fieldsteel](https://www.youtube.com/@elifieldsteel) - best videos on SC
 - [SynthDef](https://www.youtube.com/@synth_def) - live SC coding
+- [Mads Kjeldgaard](https://www.youtube.com/@madskjeldgaard7074/videos) - Mads' YT channel - not much there, but good
 ### Books
 - [Scoring Sound](https://leanpub.com/ScoringSound) - great intro to SC
 - [The SuperCollider Book](https://mitpress.mit.edu/9780262232692/the-supercollider-book/) - the big one
@@ -39,6 +40,7 @@ Currently my weapon of choice, so lots of links.
 - [VCV Rack](https://vcvrack.com/) - virtual synth rack
 ### Videos
 - [Monotrail Tech Talk](https://www.youtube.com/@MonotrailTechTalk/videos) - YouTube channel, mostly modular synth stuff
+- [The Audio Programmer](https://www.youtube.com/@TheAudioProgrammer/videos) - YouTube channel, audio programming
 ### Books
 - [Computer Music](https://www.amazon.com/Computer-Music-Synthesis-Composition-Performance/dp/0028646827) - Dodge, Jerse
 - [Computer Sound Design](https://www.amazon.com/Computer-Sound-Design-Second-programming/dp/0240516931) - Eduardo Reck Miranda
