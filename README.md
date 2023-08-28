@@ -5,9 +5,13 @@
 - [Supercollider](https://supercollider.github.io/) - the official github site
 - [scsynth.org](https://scsynth.org/) - SuperCollider forum
 - [sccode.org](https://sccode.org/) - SuperCollider code samples
-- [SuperCollider Reddit](https://www.reddit.com/r/supercollider/)
+- [SuperCollider Reddit](https://www.reddit.com/r/supercollider/) - SuperCollider Reddit
 - [Awesome SuperCollider](https://github.com/madskjeldgaard/awesome-supercollider) - great list of links from Mads Kjeldgaard
 - [Learning SuperCollider](https://reginaldbain.com/vc/musc540/pub/learning/sc3.html) - collection of links
+- [SCNvim](https://github.com/davidgranstrom/scnvim) - SuperCollider in neovim
+- [Nathan Ho](https://nathan.ho.name/) - blog by Nathan, aka SynthDef on YouTube. Some highlights:
+  - [Opinionated Advice for SuperCollider Beginners](https://nathan.ho.name/posts/supercollider-beginner-advice/)
+  - [SuperCollider Tips](https://nathan.ho.name/posts/supercollider-tips/)
 ### Videos
 - [Eli Fieldsteel](https://www.youtube.com/@elifieldsteel) - best videos on SC
 - [SynthDef](https://www.youtube.com/@synth_def) - live SC coding
@@ -21,6 +25,8 @@
 ### Links
 - [Learning Synths](https://learningsynths.ableton.com/) - from Ableton
 - [Introduction to Computer Music](https://cmtext.indiana.edu/index.php)
+- [Sound On Sound: Synth Secrets](https://www.soundonsound.com/series/synth-secrets-sound-sound) - series of magazine articles on synthesis
+- [VCV Rack](https://vcvrack.com/) - virtual synth rack
 ### Videos
 - [Sound Design Complete Course](https://www.youtube.com/watch?v=jWorjBDcty4)
 ### Books
@@ -32,7 +38,8 @@
 ### Videos
 ### Books
 ### Courses
-- [Digital Music Masters](https://www.digitalmusicmasters.com/enrollments)
+- [Music Theory for Electronic Producers - The Complete Course!](https://www.digitalmusicmasters.com/enrollments)
+- [Piano Lessons for Beatmakers and Music Producers](https://www.udemy.com/course/piano-lessons-for-beatmakers-and-music-producers/) - focus on keyboard stuff
 
 ## Music Production
 ### Links
