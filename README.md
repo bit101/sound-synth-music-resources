@@ -2,27 +2,10 @@
 
 Links, videos, books and courses. Mostly just learning resources for myself, but others might find some of this useful. I can't vouch for all of these, but have looked through them enough to say that they all seem to have promise. Many of the book links are to Amazon just out of convenience. They are not affiliate links. If you want to buy them, get them from whatever source you want to support.
 
-- [Sound, Synth, and Music Theory Reources](#sound-synth-and-music-theory-resources)
-  - [SuperCollider](#supercollider)
-    - [Links](#links)
-    - [Videos](#videos)
-    - [Books](#books)
-    - [Courses](#courses)
-  - [Sound Synthess](#sound-synthesis)
-    - [Links](#links)
-    - [Videos](#videos)
-    - [Books](#books)
-    - [Courses](#courses)
-  - [Music Theory and Production](#music-theory-and-production)
-    - [Links](#links)
-    - [Videos](#videos)
-    - [Books](#books)
-    - [Courses](#courses)
-  - [Specific Tools](#specific-tools)
-    - [Links](#links)
-    - [Videos](#videos)
-    - [Books](#books)
-    - [Courses](#courses)
+- [SuperCollider](#supercollider)
+- [Sound Synthess](#sound-synthesis)
+- [Music Theory and Production](#music-theory-and-production)
+- [Specific Tools](#specific-tools)
 
 ## SuperCollider
 Currently my weapon of choice, so lots of links.
