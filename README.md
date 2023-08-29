@@ -1,4 +1,4 @@
-# Sound, Synth, and Music Throry Resources
+# Sound, Synth, and Music Theory Resources
 
 Links, videos, books and courses. Mostly just learning resources for myself, but others might find some of this useful. I can't vouch for all of these, but have looked through them enough to say that they all seem to have promise. Many of the book links are to Amazon just out of convenience. They are not affiliate links. If you want to buy them, get them from whatever source you want to support.
 
