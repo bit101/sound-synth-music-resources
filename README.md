@@ -2,6 +2,28 @@
 
 Links, videos, books and courses. Mostly just learning resources for myself, but others might find some of this useful. I can't vouch for all of these, but have looked through them enough to say that they all seem to have promise. Many of the book links are to Amazon just out of convenience. They are not affiliate links. If you want to buy them, get them from whatever source you want to support.
 
+- [Sound, Synth, and Music Theory Reources](#sound-synth-and-music-theory-resources)
+  - [SuperCollider](#supercollider)
+    - [Links](#links)
+    - [Videos](#videos)
+    - [Books](#books)
+    - [Courses](#courses)
+  - [Sound Synthess](#sound-synthesis)
+    - [Links](#links)
+    - [Videos](#videos)
+    - [Books](#books)
+    - [Courses](#courses)
+  - [Music Theory and Production](#music-theory-and-production)
+    - [Links](#links)
+    - [Videos](#videos)
+    - [Books](#books)
+    - [Courses](#courses)
+  - [Specific Tools](#specific-tools)
+    - [Links](#links)
+    - [Videos](#videos)
+    - [Books](#books)
+    - [Courses](#courses)
+
 ## SuperCollider
 Currently my weapon of choice, so lots of links.
 ### Links
@@ -77,3 +99,6 @@ Currently my weapon of choice, so lots of links.
 ### LMMS
 - [LMMS](https://lmms.io/) - main site
 - [LMMS tutorials](https://www.youtube.com/watch?v=TrMTlpeSw8Y&list=PLqazFFzUAPc4K1To5JTtR3cskcdRifM1M) - 22 vids - TJ Free
+### Ardour
+- [Ardour](https://ardour.org/) - main site
+- [Ardour Tutorial](https://www.youtube.com/watch?v=bfTAKv4htDE&list=PLi2LbJnGR-49PM2Pbs46zySEO-7tBsBsI) - by Unfa
