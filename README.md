@@ -43,6 +43,7 @@ Currently my weapon of choice, so lots of links.
 - [Introduction to Computer Music](https://cmtext.indiana.edu/index.php)
 - [Sound On Sound: Synth Secrets](https://www.soundonsound.com/series/synth-secrets-sound-sound) - series of magazine articles on synthesis
 - [VCV Rack](https://vcvrack.com/) - virtual synth rack
+- [PadSynth Algorithm](https://zynaddsubfx.sourceforge.io/doc/PADsynth/PADsynth.htm) - "This algorithm generates very beautiful sounds..." 
 ### Videos
 - [Monotrail Tech Talk](https://www.youtube.com/@MonotrailTechTalk/videos) - YouTube channel, mostly modular synth stuff
 - [The Audio Programmer](https://www.youtube.com/@TheAudioProgrammer/videos) - YouTube channel, audio programming
