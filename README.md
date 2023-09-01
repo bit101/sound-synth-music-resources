@@ -60,6 +60,7 @@ Currently my weapon of choice, so lots of links.
 - [Virtual Piano Chords Chart](https://www.zebrakeys.com/resources/reference/virtualpianochords/) - chords and scales
 - [Keyboard Note Identification](https://www.musictheory.net/exercises/keyboard) - good practice tool
 ### Videos
+- [Venus Theory](https://www.youtube.com/@VenusTheory) - all kinds of stuff in this channel - music theory, synth patches, melodies, gear reviews, tips, tricks.
 ### Books
 - [Music by the Numbers](https://www.amazon.com/Music-Numbers-Pythagoras-Eli-Maor/dp/0691202966/) - Eli Maor
 - [Music, A Mathematical Offering](https://www.amazon.com/Music-Mathematical-Offering-Dave-Benson/dp/0521619998/) - Dave Benson
