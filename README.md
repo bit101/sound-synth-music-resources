@@ -57,10 +57,12 @@ Currently my weapon of choice, so lots of links.
 - [The Musical Art of Synthesis](https://www.amazon.com/Musical-Art-Synthesis-Sam-McGuire/dp/1138829773/) - Sam McGuire
 ### Courses
 - [Sound Design Complete Course](https://www.youtube.com/watch?v=jWorjBDcty4) (free)
+- 
 ## Music Theory and Production
 ### Links
 - [Virtual Piano Chords Chart](https://www.zebrakeys.com/resources/reference/virtualpianochords/) - chords and scales
 - [Keyboard Note Identification](https://www.musictheory.net/exercises/keyboard) - good practice tool
+- [Drum Machine Patterns](http://808.pixll.de/index.php) - just what it says.
 ### Videos
 - [Venus Theory](https://www.youtube.com/@VenusTheory) - all kinds of stuff in this channel - music theory, synth patches, melodies, gear reviews, tips, tricks.
 ### Books
