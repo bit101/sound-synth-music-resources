@@ -63,6 +63,7 @@ Currently my weapon of choice, so lots of links.
 - [Virtual Piano Chords Chart](https://www.zebrakeys.com/resources/reference/virtualpianochords/) - chords and scales
 - [Keyboard Note Identification](https://www.musictheory.net/exercises/keyboard) - good practice tool
 - [Drum Machine Patterns](http://808.pixll.de/index.php) - just what it says.
+- [Captain Pikant](https://www.youtube.com/@CaptainPikant/videos) - various synth/drum machine videos. cute but informative.
 ### Videos
 - [Venus Theory](https://www.youtube.com/@VenusTheory) - all kinds of stuff in this channel - music theory, synth patches, melodies, gear reviews, tips, tricks.
 ### Books
