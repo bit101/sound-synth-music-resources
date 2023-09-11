@@ -48,6 +48,7 @@ Currently my weapon of choice, so lots of links.
 ### Videos
 - [Monotrail Tech Talk](https://www.youtube.com/@MonotrailTechTalk/videos) - YouTube channel, mostly modular synth stuff
 - [The Audio Programmer](https://www.youtube.com/@TheAudioProgrammer/videos) - YouTube channel, audio programming
+- [Captain Pikant](https://www.youtube.com/@CaptainPikant/videos) - mostly drum machine stuff.
 ### Books
 - [Computer Music](https://www.amazon.com/Computer-Music-Synthesis-Composition-Performance/dp/0028646827) - Dodge, Jerse
 - [Computer Sound Design](https://www.amazon.com/Computer-Sound-Design-Second-programming/dp/0240516931) - Eduardo Reck Miranda
@@ -63,7 +64,7 @@ Currently my weapon of choice, so lots of links.
 - [Virtual Piano Chords Chart](https://www.zebrakeys.com/resources/reference/virtualpianochords/) - chords and scales
 - [Keyboard Note Identification](https://www.musictheory.net/exercises/keyboard) - good practice tool
 - [Drum Machine Patterns](http://808.pixll.de/index.php) - just what it says.
-- [Captain Pikant](https://www.youtube.com/@CaptainPikant/videos) - various synth/drum machine videos. cute but informative.
+
 ### Videos
 - [Venus Theory](https://www.youtube.com/@VenusTheory) - all kinds of stuff in this channel - music theory, synth patches, melodies, gear reviews, tips, tricks.
 ### Books
